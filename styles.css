@@ -1,0 +1,12 @@
+
+.caja {
+  width: 200px;  /* o el ancho que necesites */
+  height: 150px; /* altura suficiente para el contenido */
+  background-color: lightcoral;
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center; /* centra verticalmente */
+  align-items: center;     /* centra horizontalmente */
+  text-align: center;
+}
